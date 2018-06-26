@@ -1,0 +1,4 @@
+name: BotLogger
+main: fr.keke142.botlogger.BotLoggerPlugin
+version: 1.0
+author: keke142
